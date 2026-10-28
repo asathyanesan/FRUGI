@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+title: "FRUGI: Frugal Resource Utilization for GFP Imaging"
+type: software
+authors:
+  - family-names: Madala
+    given-names: Sanjay
+    orcid: "https://orcid.org/0009-0003-6212-6047"
+  - family-names: Sathyanesan
+    given-names: Aaron
+    orcid: "https://orcid.org/0000-0002-9226-7831"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/asathyanesan/FRUGI"
