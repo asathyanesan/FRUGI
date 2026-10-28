@@ -10,5 +10,6 @@ authors:
     given-names: Aaron
     orcid: "https://orcid.org/0000-0002-9226-7831"
 version: 1.0.0
+doi: 10.5281/zenodo.23716548
 license: MIT
 repository-code: "https://github.com/asathyanesan/FRUGI"
